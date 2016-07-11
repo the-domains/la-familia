@@ -1,0 +1,14 @@
+layout_spectrum: 0.9211469
+color:
+  saturation: 1
+  brandStrength: 0.5835418
+  lightness: 0.1702509
+  rhythmicContrast: 1
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+typography_spectrum: 0.08602151
+name: La Familia
